@@ -1,4 +1,3 @@
-```
 # SnapBack
 
 Desktop backup and recovery tool for QuickBooks Online.
@@ -59,4 +58,3 @@ QBO doesn't have a native local backup feature. If you accidentally delete trans
 ---
 
 *SnapBack by Jiajie Financial Solutions Ltd.*
-```
