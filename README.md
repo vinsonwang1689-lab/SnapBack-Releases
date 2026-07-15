@@ -6,7 +6,7 @@ Encrypt, schedule, and restore your QBO company data to your local machine — n
 
 ## Download
 
-⬇️ **Download SnapBack Setup 18.2.7.exe**
+⬇️ [Download SnapBack Setup 18.2.7.exe](https://github.com/vinsonwang1689-lab/SnapBack-Releases/releases/download/V18.2.7/SnapBack.Setup.18.2.7.exe)
 
 **Version:** V18.2.7 | **Size:** ~119 MB | **Platform:** Windows 10/11
 
@@ -52,8 +52,9 @@ QBO doesn't have a native local backup feature. If you accidentally delete trans
 ## Support
 
 📧 snapback1689@gmail.com
-🐛 Report a Bug
-💳 Purchase on Gumroad
+🐛 [Report a Bug](https://github.com/vinsonwang1689-lab/SnapBack-Releases/issues)
+💳 [Purchase on Gumroad](https://snapbacker7.gumroad.com/l/snapback)
+
 
 ---
 
