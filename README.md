@@ -1,6 +1,4 @@
-# SnapBack-Releases
-Desktop backup tool for QuickBooks Online — encrypt, schedule, and restore your QBO data locally
-```markdown
+```
 # SnapBack
 
 Desktop backup and recovery tool for QuickBooks Online.
