@@ -11,7 +11,7 @@ Encrypt, schedule, and restore your QBO company data to your local machine — n
 
 ⬇️ **Download SnapBack Setup 18.2.7.exe**
 
-**Version:** v1.0.0 | **Size:** ~119 MB | **Platform:** Windows 10/11
+**Version:** V18.2.7 | **Size:** ~119 MB | **Platform:** Windows 10/11
 
 ---
 
